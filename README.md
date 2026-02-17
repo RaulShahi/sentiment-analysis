@@ -23,7 +23,7 @@ This is a baseline ML approach (no deep learning).
    - Lowercasing  
    - Removing punctuation  
    - Tokenization  
-   - (Optional) Stopword removal  
+   - Stopword removal  
 
 2. **Feature Extraction**
    - Convert text into vectors using **Bag of Words (CountVectorizer)**
